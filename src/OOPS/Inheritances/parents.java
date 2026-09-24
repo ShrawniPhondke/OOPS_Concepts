@@ -1,4 +1,4 @@
-package OOPS;
+package OOPS.Inheritances;
 
 public class parents {
 
@@ -19,6 +19,7 @@ public class parents {
     }
 
     public void eye(){
+
         System.out.println("brown");
     }
 
