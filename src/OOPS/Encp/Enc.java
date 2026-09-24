@@ -1,4 +1,4 @@
-package OOPS;
+package OOPS.Encp;
 
 public class Enc {
 
@@ -32,8 +32,6 @@ public class Enc {
         balance = balance + i;
         System.out.println(balance);
     }
-
-
 }
 
     class demoo {
