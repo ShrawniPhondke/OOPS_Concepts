@@ -1,4 +1,9 @@
 package OOPS.Abtract;
 
-public class sbi {
+public class sbi extends Atm {
+    @Override
+    void withdraw() {
+
+    }
 }
+
